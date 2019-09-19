@@ -81,7 +81,7 @@ i{
   content: '';
   position: absolute;
   left: 50%;
-  bottom: 1.4%;
+  bottom: 0;
   width: 20px;
   height: 20px;
   background: var(--secundary-color);
